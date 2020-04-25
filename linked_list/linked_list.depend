@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587851819 source:d:\pjatk\sop_c\linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
